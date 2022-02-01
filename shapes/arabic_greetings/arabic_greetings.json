@@ -1,0 +1,212 @@
+{
+  "map": [
+        {
+      "code": "A",
+      "desc": "A"
+    },
+    {
+      "code": "B",
+      "desc": "B"
+    },
+    {
+      "code": "C",
+      "desc": "C"
+    },
+    {
+      "code": "D",
+      "desc": "D"
+    },
+    {
+      "code": "E",
+      "desc": "E"
+    },
+    {
+      "code": "F",
+      "desc": "F"
+    },
+    {
+      "code": "G",
+      "desc": "G"
+    },
+    {
+      "code": "H",
+      "desc": "H"
+    },
+    {
+      "code": "I",
+      "desc": "I"
+    },
+    {
+      "code": "J",
+      "desc": "J"
+    },
+    {
+      "code": "K",
+      "desc": "K"
+    },
+    {
+      "code": "L",
+      "desc": "L"
+    },
+    {
+      "code": "M",
+      "desc": "M"
+    },
+    {
+      "code": "N",
+      "desc": "N"
+    },
+    {
+      "code": "O",
+      "desc": "O"
+    },
+    {
+      "code": "P",
+      "desc": "P"
+    },
+    {
+      "code": "Q",
+      "desc": "Q"
+    },
+    {
+      "code": "R",
+      "desc": "R"
+    },
+    {
+      "code": "S",
+      "desc": "S"
+    },
+    {
+      "code": "T",
+      "desc": "T"
+    },
+    {
+      "code": "U",
+      "desc": "U"
+    },
+    {
+      "code": "V",
+      "desc": "V"
+    },
+    {
+      "code": "W",
+      "desc": "W"
+    },
+    {
+      "code": "X",
+      "desc": "X"
+    },
+    {
+      "code": "Y",
+      "desc": "Y"
+    },
+    {
+      "code": "Z",
+      "desc": "Z"
+    },
+    {
+      "code": "a",
+      "desc": "a"
+    },
+    {
+      "code": "b",
+      "desc": "b"
+    },
+    {
+      "code": "c",
+      "desc": "c"
+    },
+    {
+      "code": "d",
+      "desc": "d"
+    },
+    {
+      "code": "e",
+      "desc": "e"
+    },
+    {
+      "code": "f",
+      "desc": "f"
+    },
+    {
+      "code": "g",
+      "desc": "g"
+    },
+    {
+      "code": "h",
+      "desc": "h"
+    },
+    {
+      "code": "i",
+      "desc": "i"
+    },
+    {
+      "code": "j",
+      "desc": "j"
+    },
+    {
+      "code": "k",
+      "desc": "k"
+    },
+    {
+      "code": "l",
+      "desc": "l"
+    },
+    {
+      "code": "m",
+      "desc": "m"
+    },
+    {
+      "code": "n",
+      "desc": "n"
+    },
+    {
+      "code": "o",
+      "desc": "o"
+    },
+    {
+      "code": "p",
+      "desc": "p"
+    },
+    {
+      "code": "q",
+      "desc": "q"
+    },
+    {
+      "code": "r",
+      "desc": "r"
+    },
+    {
+      "code": "s",
+      "desc": "s"
+    },
+    {
+      "code": "t",
+      "desc": "t"
+    },
+    {
+      "code": "u",
+      "desc": "u"
+    },
+    {
+      "code": "v",
+      "desc": "v"
+    },
+    {
+      "code": "w",
+      "desc": "w"
+    },
+    {
+      "code": "x",
+      "desc": "x"
+    },
+    {
+      "code": "y",
+      "desc": "y"
+    },
+    {
+      "code": "z",
+      "desc": "z"
+    }
+  ]
+}

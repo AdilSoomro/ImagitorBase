@@ -1,0 +1,2248 @@
+{
+  "map": [
+    {
+      "code": "\uf46a",
+      "desc": "Burn"
+    },
+    {
+      "code": "\uf140",
+      "desc": "Bullseye"
+    },
+    {
+      "code": "\uf0a1",
+      "desc": "bullhorn"
+    },
+    {
+      "code": "\uf1ad",
+      "desc": "Building"
+    },
+    {
+      "code": "\uf188",
+      "desc": "Bug"
+    },
+    {
+      "code": "\uf469",
+      "desc": "Medical Briefcase"
+    },
+    {
+      "code": "\uf0b1",
+      "desc": "Briefcase"
+    },
+    {
+      "code": "\uf2a1",
+      "desc": "Braille"
+    },
+    {
+      "code": "\uf468",
+      "desc": "Boxes"
+    },
+    {
+      "code": "\uf49e",
+      "desc": "Box Open"
+    },
+    {
+      "code": "\uf466",
+      "desc": "Box"
+    },
+    {
+      "code": "\uf436",
+      "desc": "Bowling Ball"
+    },
+    {
+      "code": "\uf02e",
+      "desc": "bookmark"
+    },
+    {
+      "code": "\uf02d",
+      "desc": "book"
+    },
+    {
+      "code": "\uf1e2",
+      "desc": "Bomb"
+    },
+    {
+      "code": "\uf0e7",
+      "desc": "Lightning Bolt"
+    },
+    {
+      "code": "\uf032",
+      "desc": "bold"
+    },
+    {
+      "code": "\uf29d",
+      "desc": "Blind"
+    },
+    {
+      "code": "\uf1fd",
+      "desc": "Birthday Cake"
+    },
+    {
+      "code": "\uf1e5",
+      "desc": "Binoculars"
+    },
+    {
+      "code": "\uf206",
+      "desc": "Bicycle"
+    },
+    {
+      "code": "\uf1f6",
+      "desc": "Bell Slash"
+    },
+    {
+      "code": "\uf0f3",
+      "desc": "bell"
+    },
+    {
+      "code": "\uf0fc",
+      "desc": "beer"
+    },
+    {
+      "code": "\uf236",
+      "desc": "Bed"
+    },
+    {
+      "code": "\uf241",
+      "desc": "Battery 3\/4 Full"
+    },
+    {
+      "code": "\uf243",
+      "desc": "Battery 1\/4 Full"
+    },
+    {
+      "code": "\uf242",
+      "desc": "Battery 1\/2 Full"
+    },
+    {
+      "code": "\uf240",
+      "desc": "Battery Full"
+    },
+    {
+      "code": "\uf244",
+      "desc": "Battery Empty"
+    },
+    {
+      "code": "\uf2cd",
+      "desc": "Bath"
+    },
+    {
+      "code": "\uf434",
+      "desc": "Basketball Ball"
+    },
+    {
+      "code": "\uf433",
+      "desc": "Baseball Ball"
+    },
+    {
+      "code": "\uf0c9",
+      "desc": "Bars"
+    },
+    {
+      "code": "\uf02a",
+      "desc": "barcode"
+    },
+    {
+      "code": "\uf462",
+      "desc": "Band-Aid"
+    },
+    {
+      "code": "\uf05e",
+      "desc": "ban"
+    },
+    {
+      "code": "\uf24e",
+      "desc": "Balance Scale"
+    },
+    {
+      "code": "\uf04a",
+      "desc": "backward"
+    },
+    {
+      "code": "\uf29e",
+      "desc": "Audio Description"
+    },
+    {
+      "code": "\uf1fa",
+      "desc": "At"
+    },
+    {
+      "code": "\uf069",
+      "desc": "asterisk"
+    },
+    {
+      "code": "\uf2a2",
+      "desc": "Assistive Listening Systems"
+    },
+    {
+      "code": "\uf338",
+      "desc": "Alternate Arrows Vertical"
+    },
+    {
+      "code": "\uf337",
+      "desc": "Alternate Arrows Horizontal"
+    },
+    {
+      "code": "\uf0b2",
+      "desc": "Alternate Arrows"
+    },
+    {
+      "code": "\uf062",
+      "desc": "arrow-up"
+    },
+    {
+      "code": "\uf061",
+      "desc": "arrow-right"
+    },
+    {
+      "code": "\uf060",
+      "desc": "arrow-left"
+    },
+    {
+      "code": "\uf063",
+      "desc": "arrow-down"
+    },
+    {
+      "code": "\uf0aa",
+      "desc": "Arrow Circle Up"
+    },
+    {
+      "code": "\uf0a9",
+      "desc": "Arrow Circle Right"
+    },
+    {
+      "code": "\uf0a8",
+      "desc": "Arrow Circle Left"
+    },
+    {
+      "code": "\uf0ab",
+      "desc": "Arrow Circle Down"
+    },
+    {
+      "code": "\uf35b",
+      "desc": "Alternate Arrow Circle Up"
+    },
+    {
+      "code": "\uf35a",
+      "desc": "Alternate Arrow Circle Right"
+    },
+    {
+      "code": "\uf359",
+      "desc": "Alternate Arrow Circle Left"
+    },
+    {
+      "code": "\uf358",
+      "desc": "Alternate Arrow Circle Down"
+    },
+    {
+      "code": "\uf187",
+      "desc": "Archive"
+    },
+    {
+      "code": "\uf106",
+      "desc": "angle-up"
+    },
+    {
+      "code": "\uf105",
+      "desc": "angle-right"
+    },
+    {
+      "code": "\uf104",
+      "desc": "angle-left"
+    },
+    {
+      "code": "\uf107",
+      "desc": "angle-down"
+    },
+    {
+      "code": "\uf102",
+      "desc": "Angle Double Up"
+    },
+    {
+      "code": "\uf101",
+      "desc": "Angle Double Right"
+    },
+    {
+      "code": "\uf100",
+      "desc": "Angle Double Left"
+    },
+    {
+      "code": "\uf103",
+      "desc": "Angle Double Down"
+    },
+    {
+      "code": "\uf13d",
+      "desc": "Anchor"
+    },
+    {
+      "code": "\uf2a3",
+      "desc": "American Sign Language Interpreting"
+    },
+    {
+      "code": "\uf0f9",
+      "desc": "ambulance"
+    },
+    {
+      "code": "\uf461",
+      "desc": "Allergies"
+    },
+    {
+      "code": "\uf038",
+      "desc": "align-right"
+    },
+    {
+      "code": "\uf036",
+      "desc": "align-left"
+    },
+    {
+      "code": "\uf039",
+      "desc": "align-justify"
+    },
+    {
+      "code": "\uf037",
+      "desc": "align-center"
+    },
+    {
+      "code": "\uf042",
+      "desc": "adjust"
+    },
+    {
+      "code": "\uf2bb",
+      "desc": "Address Card"
+    },
+    {
+      "code": "\uf2b9",
+      "desc": "Address Book"
+    },
+    {
+      "code": "\uf157",
+      "desc": "Yen Sign"
+    },
+    {
+      "code": "\uf497",
+      "desc": "X-Ray"
+    },
+    {
+      "code": "\uf0ad",
+      "desc": "Wrench"
+    },
+    {
+      "code": "\uf159",
+      "desc": "Won Sign"
+    },
+    {
+      "code": "\uf4e3",
+      "desc": "Wine Glass"
+    },
+    {
+      "code": "\uf2d2",
+      "desc": "Window Restore"
+    },
+    {
+      "code": "\uf2d1",
+      "desc": "Window Minimize"
+    },
+    {
+      "code": "\uf2d0",
+      "desc": "Window Maximize"
+    },
+    {
+      "code": "\uf410",
+      "desc": "Window Close"
+    },
+    {
+      "code": "\uf1eb",
+      "desc": "WiFi"
+    },
+    {
+      "code": "\uf193",
+      "desc": "Wheelchair"
+    },
+    {
+      "code": "\uf496",
+      "desc": "Weight"
+    },
+    {
+      "code": "\uf494",
+      "desc": "Warehouse"
+    },
+    {
+      "code": "\uf028",
+      "desc": "volume-up"
+    },
+    {
+      "code": "\uf026",
+      "desc": "volume-off"
+    },
+    {
+      "code": "\uf027",
+      "desc": "volume-down"
+    },
+    {
+      "code": "\uf45f",
+      "desc": "Volleyball Ball"
+    },
+    {
+      "code": "\uf4e2",
+      "desc": "Video Slash"
+    },
+    {
+      "code": "\uf03d",
+      "desc": "Video"
+    },
+    {
+      "code": "\uf493",
+      "desc": "Vials"
+    },
+    {
+      "code": "\uf492",
+      "desc": "Vial"
+    },
+    {
+      "code": "\uf228",
+      "desc": "Venus Mars"
+    },
+    {
+      "code": "\uf226",
+      "desc": "Venus Double"
+    },
+    {
+      "code": "\uf221",
+      "desc": "Venus"
+    },
+    {
+      "code": "\uf2e7",
+      "desc": "Utensils"
+    },
+    {
+      "code": "\uf2e5",
+      "desc": "Utensil Spoon"
+    },
+    {
+      "code": "\uf509",
+      "desc": "Users Cog"
+    },
+    {
+      "code": "\uf0c0",
+      "desc": "Users"
+    },
+    {
+      "code": "\uf235",
+      "desc": "Remove User"
+    },
+    {
+      "code": "\uf508",
+      "desc": "User Tie"
+    },
+    {
+      "code": "\uf507",
+      "desc": "User Tag"
+    },
+    {
+      "code": "\uf506",
+      "desc": "User Slash"
+    },
+    {
+      "code": "\uf505",
+      "desc": "User Shield"
+    },
+    {
+      "code": "\uf21b",
+      "desc": "User Secret"
+    },
+    {
+      "code": "\uf234",
+      "desc": "Add User"
+    },
+    {
+      "code": "\uf504",
+      "desc": "User Ninja"
+    },
+    {
+      "code": "\uf503",
+      "desc": "User Minus"
+    },
+    {
+      "code": "\uf0f0",
+      "desc": "user-md"
+    },
+    {
+      "code": "\uf502",
+      "desc": "User Lock"
+    },
+    {
+      "code": "\uf501",
+      "desc": "User Graduate"
+    },
+    {
+      "code": "\uf500",
+      "desc": "User Friends"
+    },
+    {
+      "code": "\uf4ff",
+      "desc": "User Edit"
+    },
+    {
+      "code": "\uf4fe",
+      "desc": "User Cog"
+    },
+    {
+      "code": "\uf4fd",
+      "desc": "User Clock"
+    },
+    {
+      "code": "\uf2bd",
+      "desc": "User Circle"
+    },
+    {
+      "code": "\uf4fc",
+      "desc": "User Check"
+    },
+    {
+      "code": "\uf4fb",
+      "desc": "User Astronaut"
+    },
+    {
+      "code": "\uf4fa",
+      "desc": "User Alt-slash"
+    },
+    {
+      "code": "\uf406",
+      "desc": "Alternate User"
+    },
+    {
+      "code": "\uf007",
+      "desc": "User"
+    },
+    {
+      "code": "\uf093",
+      "desc": "Upload"
+    },
+    {
+      "code": "\uf13e",
+      "desc": "Alternate Unlock"
+    },
+    {
+      "code": "\uf09c",
+      "desc": "unlock"
+    },
+    {
+      "code": "\uf127",
+      "desc": "unlink"
+    },
+    {
+      "code": "\uf19c",
+      "desc": "University"
+    },
+    {
+      "code": "\uf29a",
+      "desc": "Universal Access"
+    },
+    {
+      "code": "\uf2ea",
+      "desc": "Alternate Undo"
+    },
+    {
+      "code": "\uf0e2",
+      "desc": "Undo"
+    },
+    {
+      "code": "\uf0cd",
+      "desc": "Underline"
+    },
+    {
+      "code": "\uf0e9",
+      "desc": "Umbrella"
+    },
+    {
+      "code": "\uf26c",
+      "desc": "Television"
+    },
+    {
+      "code": "\uf1e4",
+      "desc": "TTY"
+    },
+    {
+      "code": "\uf4df",
+      "desc": "Truck Moving"
+    },
+    {
+      "code": "\uf4de",
+      "desc": "Truck Loading"
+    },
+    {
+      "code": "\uf0d1",
+      "desc": "truck"
+    },
+    {
+      "code": "\uf091",
+      "desc": "trophy"
+    },
+    {
+      "code": "\uf1bb",
+      "desc": "Tree"
+    },
+    {
+      "code": "\uf2ed",
+      "desc": "Alternate Trash"
+    },
+    {
+      "code": "\uf1f8",
+      "desc": "Trash"
+    },
+    {
+      "code": "\uf225",
+      "desc": "Alternate Transgender"
+    },
+    {
+      "code": "\uf224",
+      "desc": "Transgender"
+    },
+    {
+      "code": "\uf238",
+      "desc": "Train"
+    },
+    {
+      "code": "\uf25c",
+      "desc": "Trademark"
+    },
+    {
+      "code": "\uf205",
+      "desc": "Toggle On"
+    },
+    {
+      "code": "\uf204",
+      "desc": "Toggle Off"
+    },
+    {
+      "code": "\uf043",
+      "desc": "tint"
+    },
+    {
+      "code": "\uf057",
+      "desc": "Times Circle"
+    },
+    {
+      "code": "\uf00d",
+      "desc": "Times"
+    },
+    {
+      "code": "\uf3ff",
+      "desc": "Alternate Ticket"
+    },
+    {
+      "code": "\uf08d",
+      "desc": "Thumbtack"
+    },
+    {
+      "code": "\uf164",
+      "desc": "thumbs-up"
+    },
+    {
+      "code": "\uf165",
+      "desc": "thumbs-down"
+    },
+    {
+      "code": "\uf2c8",
+      "desc": "Thermometer 3\/4 Full"
+    },
+    {
+      "code": "\uf2ca",
+      "desc": "Thermometer 1\/4 Full"
+    },
+    {
+      "code": "\uf2c9",
+      "desc": "Thermometer 1\/2 Full"
+    },
+    {
+      "code": "\uf2c7",
+      "desc": "Thermometer Full"
+    },
+    {
+      "code": "\uf2cb",
+      "desc": "Thermometer Empty"
+    },
+    {
+      "code": "\uf491",
+      "desc": "Thermometer"
+    },
+    {
+      "code": "\uf00b",
+      "desc": "th-list"
+    },
+    {
+      "code": "\uf009",
+      "desc": "th-large"
+    },
+    {
+      "code": "\uf00a",
+      "desc": "th"
+    },
+    {
+      "code": "\uf035",
+      "desc": "text-width"
+    },
+    {
+      "code": "\uf034",
+      "desc": "text-height"
+    },
+    {
+      "code": "\uf120",
+      "desc": "Terminal"
+    },
+    {
+      "code": "\uf1ba",
+      "desc": "Taxi"
+    },
+    {
+      "code": "\uf0ae",
+      "desc": "Tasks"
+    },
+    {
+      "code": "\uf4db",
+      "desc": "Tape"
+    },
+    {
+      "code": "\uf02c",
+      "desc": "tags"
+    },
+    {
+      "code": "\uf02b",
+      "desc": "tag"
+    },
+    {
+      "code": "\uf3fd",
+      "desc": "Alternate Tachometer"
+    },
+    {
+      "code": "\uf490",
+      "desc": "Tablets"
+    },
+    {
+      "code": "\uf3fa",
+      "desc": "Alternate Tablet"
+    },
+    {
+      "code": "\uf10a",
+      "desc": "tablet"
+    },
+    {
+      "code": "\uf45d",
+      "desc": "Table Tennis"
+    },
+    {
+      "code": "\uf0ce",
+      "desc": "table"
+    },
+    {
+      "code": "\uf48e",
+      "desc": "Syringe"
+    },
+    {
+      "code": "\uf2f1",
+      "desc": "Alternate Sync"
+    },
+    {
+      "code": "\uf021",
+      "desc": "Sync"
+    },
+    {
+      "code": "\uf12b",
+      "desc": "superscript"
+    },
+    {
+      "code": "\uf185",
+      "desc": "Sun"
+    },
+    {
+      "code": "\uf0f2",
+      "desc": "Suitcase"
+    },
+    {
+      "code": "\uf239",
+      "desc": "Subway"
+    },
+    {
+      "code": "\uf12c",
+      "desc": "subscript"
+    },
+    {
+      "code": "\uf0cc",
+      "desc": "Strikethrough"
+    },
+    {
+      "code": "\uf21d",
+      "desc": "Street View"
+    },
+    {
+      "code": "\uf2f2",
+      "desc": "Stopwatch"
+    },
+    {
+      "code": "\uf28d",
+      "desc": "Stop Circle"
+    },
+    {
+      "code": "\uf04d",
+      "desc": "stop"
+    },
+    {
+      "code": "\uf249",
+      "desc": "Sticky Note"
+    },
+    {
+      "code": "\uf0f1",
+      "desc": "Stethoscope"
+    },
+    {
+      "code": "\uf051",
+      "desc": "step-forward"
+    },
+    {
+      "code": "\uf048",
+      "desc": "step-backward"
+    },
+    {
+      "code": "\uf089",
+      "desc": "star-half"
+    },
+    {
+      "code": "\uf005",
+      "desc": "Star"
+    },
+    {
+      "code": "\uf45c",
+      "desc": "Square Full"
+    },
+    {
+      "code": "\uf0c8",
+      "desc": "Square"
+    },
+    {
+      "code": "\uf110",
+      "desc": "Spinner"
+    },
+    {
+      "code": "\uf197",
+      "desc": "Space Shuttle"
+    },
+    {
+      "code": "\uf0de",
+      "desc": "Sort Up (Ascending)"
+    },
+    {
+      "code": "\uf163",
+      "desc": "Sort Numeric Up"
+    },
+    {
+      "code": "\uf162",
+      "desc": "Sort Numeric Down"
+    },
+    {
+      "code": "\uf0dd",
+      "desc": "Sort Down (Descending)"
+    },
+    {
+      "code": "\uf161",
+      "desc": "Sort Amount Up"
+    },
+    {
+      "code": "\uf160",
+      "desc": "Sort Amount Down"
+    },
+    {
+      "code": "\uf15e",
+      "desc": "Sort Alpha Up"
+    },
+    {
+      "code": "\uf15d",
+      "desc": "Sort Alpha Down"
+    },
+    {
+      "code": "\uf0dc",
+      "desc": "Sort"
+    },
+    {
+      "code": "\uf2dc",
+      "desc": "Snowflake"
+    },
+    {
+      "code": "\uf48d",
+      "desc": "Smoking"
+    },
+    {
+      "code": "\uf118",
+      "desc": "Smile"
+    },
+    {
+      "code": "\uf1de",
+      "desc": "Horizontal Sliders"
+    },
+    {
+      "code": "\uf0e8",
+      "desc": "Sitemap"
+    },
+    {
+      "code": "\uf012",
+      "desc": "signal"
+    },
+    {
+      "code": "\uf2f5",
+      "desc": "Alternate Sign Out"
+    },
+    {
+      "code": "\uf2a7",
+      "desc": "Sign Language"
+    },
+    {
+      "code": "\uf2f6",
+      "desc": "Alternate Sign In"
+    },
+    {
+      "code": "\uf4d9",
+      "desc": "Sign"
+    },
+    {
+      "code": "\uf2cc",
+      "desc": "Shower"
+    },
+    {
+      "code": "\uf07a",
+      "desc": "shopping-cart"
+    },
+    {
+      "code": "\uf291",
+      "desc": "Shopping Basket"
+    },
+    {
+      "code": "\uf290",
+      "desc": "Shopping Bag"
+    },
+    {
+      "code": "\uf48b",
+      "desc": "Shipping Fast"
+    },
+    {
+      "code": "\uf21a",
+      "desc": "Ship"
+    },
+    {
+      "code": "\uf3ed",
+      "desc": "Alternate Shield"
+    },
+    {
+      "code": "\uf20b",
+      "desc": "Shekel Sign"
+    },
+    {
+      "code": "\uf14d",
+      "desc": "Share Square"
+    },
+    {
+      "code": "\uf1e1",
+      "desc": "Alternate Share Square"
+    },
+    {
+      "code": "\uf1e0",
+      "desc": "Alternate Share"
+    },
+    {
+      "code": "\uf064",
+      "desc": "Share"
+    },
+    {
+      "code": "\uf233",
+      "desc": "Server"
+    },
+    {
+      "code": "\uf4d8",
+      "desc": "Seedling"
+    },
+    {
+      "code": "\uf00e",
+      "desc": "Search Plus"
+    },
+    {
+      "code": "\uf010",
+      "desc": "Search Minus"
+    },
+    {
+      "code": "\uf002",
+      "desc": "Search"
+    },
+    {
+      "code": "\uf0c7",
+      "desc": "Save"
+    },
+    {
+      "code": "\uf156",
+      "desc": "Indian Rupee Sign"
+    },
+    {
+      "code": "\uf158",
+      "desc": "Ruble Sign"
+    },
+    {
+      "code": "\uf143",
+      "desc": "RSS Square"
+    },
+    {
+      "code": "\uf09e",
+      "desc": "rss"
+    },
+    {
+      "code": "\uf135",
+      "desc": "rocket"
+    },
+    {
+      "code": "\uf018",
+      "desc": "road"
+    },
+    {
+      "code": "\uf4d6",
+      "desc": "Ribbon"
+    },
+    {
+      "code": "\uf079",
+      "desc": "Retweet"
+    },
+    {
+      "code": "\uf122",
+      "desc": "reply-all"
+    },
+    {
+      "code": "\uf3e5",
+      "desc": "Reply"
+    },
+    {
+      "code": "\uf25d",
+      "desc": "Registered Trademark"
+    },
+    {
+      "code": "\uf2f9",
+      "desc": "Alternate Redo"
+    },
+    {
+      "code": "\uf01e",
+      "desc": "Redo"
+    },
+    {
+      "code": "\uf1b8",
+      "desc": "Recycle"
+    },
+    {
+      "code": "\uf074",
+      "desc": "random"
+    },
+    {
+      "code": "\uf10e",
+      "desc": "quote-right"
+    },
+    {
+      "code": "\uf10d",
+      "desc": "quote-left"
+    },
+    {
+      "code": "\uf458",
+      "desc": "Quidditch"
+    },
+    {
+      "code": "\uf059",
+      "desc": "Question Circle"
+    },
+    {
+      "code": "\uf128",
+      "desc": "Question"
+    },
+    {
+      "code": "\uf029",
+      "desc": "qrcode"
+    },
+    {
+      "code": "\uf12e",
+      "desc": "Puzzle Piece"
+    },
+    {
+      "code": "\uf487",
+      "desc": "Procedures"
+    },
+    {
+      "code": "\uf02f",
+      "desc": "print"
+    },
+    {
+      "code": "\uf486",
+      "desc": "Alternate Prescription Bottle"
+    },
+    {
+      "code": "\uf485",
+      "desc": "Prescription Bottle"
+    },
+    {
+      "code": "\uf011",
+      "desc": "Power Off"
+    },
+    {
+      "code": "\uf154",
+      "desc": "Pound Sign"
+    },
+    {
+      "code": "\uf3e0",
+      "desc": "Portrait"
+    },
+    {
+      "code": "\uf2fe",
+      "desc": "Poo"
+    },
+    {
+      "code": "\uf2ce",
+      "desc": "Podcast"
+    },
+    {
+      "code": "\uf0fe",
+      "desc": "Plus Square"
+    },
+    {
+      "code": "\uf055",
+      "desc": "Plus Circle"
+    },
+    {
+      "code": "\uf067",
+      "desc": "plus"
+    },
+    {
+      "code": "\uf1e6",
+      "desc": "Plug"
+    },
+    {
+      "code": "\uf144",
+      "desc": "Play Circle"
+    },
+    {
+      "code": "\uf04b",
+      "desc": "play"
+    },
+    {
+      "code": "\uf072",
+      "desc": "plane"
+    },
+    {
+      "code": "\uf484",
+      "desc": "Pills"
+    },
+    {
+      "code": "\uf4d3",
+      "desc": "Piggy Bank"
+    },
+    {
+      "code": "\uf2a0",
+      "desc": "Phone Volume"
+    },
+    {
+      "code": "\uf098",
+      "desc": "Phone Square"
+    },
+    {
+      "code": "\uf3dd",
+      "desc": "Phone Slash"
+    },
+    {
+      "code": "\uf095",
+      "desc": "Phone"
+    },
+    {
+      "code": "\uf295",
+      "desc": "Percent"
+    },
+    {
+      "code": "\uf4ce",
+      "desc": "People Carry"
+    },
+    {
+      "code": "\uf303",
+      "desc": "Alternate Pencil"
+    },
+    {
+      "code": "\uf14b",
+      "desc": "Pen Square"
+    },
+    {
+      "code": "\uf1b0",
+      "desc": "Paw"
+    },
+    {
+      "code": "\uf28b",
+      "desc": "Pause Circle"
+    },
+    {
+      "code": "\uf04c",
+      "desc": "pause"
+    },
+    {
+      "code": "\uf0ea",
+      "desc": "Paste"
+    },
+    {
+      "code": "\uf1dd",
+      "desc": "paragraph"
+    },
+    {
+      "code": "\uf4cd",
+      "desc": "Parachute Box"
+    },
+    {
+      "code": "\uf0c6",
+      "desc": "Paperclip"
+    },
+    {
+      "code": "\uf1d8",
+      "desc": "Paper Plane"
+    },
+    {
+      "code": "\uf482",
+      "desc": "Pallet"
+    },
+    {
+      "code": "\uf1fc",
+      "desc": "Paint Brush"
+    },
+    {
+      "code": "\uf03b",
+      "desc": "Outdent"
+    },
+    {
+      "code": "\uf248",
+      "desc": "Object Ungroup"
+    },
+    {
+      "code": "\uf247",
+      "desc": "Object Group"
+    },
+    {
+      "code": "\uf481",
+      "desc": "Medical Notes"
+    },
+    {
+      "code": "\uf1ea",
+      "desc": "Newspaper"
+    },
+    {
+      "code": "\uf22c",
+      "desc": "Neuter"
+    },
+    {
+      "code": "\uf001",
+      "desc": "Music"
+    },
+    {
+      "code": "\uf245",
+      "desc": "Mouse Pointer"
+    },
+    {
+      "code": "\uf21c",
+      "desc": "Motorcycle"
+    },
+    {
+      "code": "\uf186",
+      "desc": "Moon"
+    },
+    {
+      "code": "\uf3d1",
+      "desc": "Money Bill Alternate"
+    },
+    {
+      "code": "\uf3cd",
+      "desc": "Alternate Mobile"
+    },
+    {
+      "code": "\uf10b",
+      "desc": "Mobile Phone"
+    },
+    {
+      "code": "\uf146",
+      "desc": "Minus Square"
+    },
+    {
+      "code": "\uf056",
+      "desc": "Minus Circle"
+    },
+    {
+      "code": "\uf068",
+      "desc": "minus"
+    },
+    {
+      "code": "\uf131",
+      "desc": "Microphone Slash"
+    },
+    {
+      "code": "\uf130",
+      "desc": "microphone"
+    },
+    {
+      "code": "\uf2db",
+      "desc": "Microchip"
+    },
+    {
+      "code": "\uf223",
+      "desc": "Mercury"
+    },
+    {
+      "code": "\uf11a",
+      "desc": "Meh"
+    },
+    {
+      "code": "\uf0fa",
+      "desc": "medkit"
+    },
+    {
+      "code": "\uf22a",
+      "desc": "Mars Stroke Vertical"
+    },
+    {
+      "code": "\uf22b",
+      "desc": "Mars Stroke Horizontal"
+    },
+    {
+      "code": "\uf229",
+      "desc": "Mars Stroke"
+    },
+    {
+      "code": "\uf227",
+      "desc": "Mars Double"
+    },
+    {
+      "code": "\uf222",
+      "desc": "Mars"
+    },
+    {
+      "code": "\uf277",
+      "desc": "Map Signs"
+    },
+    {
+      "code": "\uf276",
+      "desc": "Map Pin"
+    },
+    {
+      "code": "\uf3c5",
+      "desc": "Map Marker Alternate"
+    },
+    {
+      "code": "\uf041",
+      "desc": "map-marker"
+    },
+    {
+      "code": "\uf279",
+      "desc": "Map"
+    },
+    {
+      "code": "\uf183",
+      "desc": "Male"
+    },
+    {
+      "code": "\uf076",
+      "desc": "magnet"
+    },
+    {
+      "code": "\uf0d0",
+      "desc": "magic"
+    },
+    {
+      "code": "\uf2a8",
+      "desc": "Low Vision"
+    },
+    {
+      "code": "\uf30c",
+      "desc": "Alternate Long Arrow Up"
+    },
+    {
+      "code": "\uf30b",
+      "desc": "Alternate Long Arrow Right"
+    },
+    {
+      "code": "\uf30a",
+      "desc": "Alternate Long Arrow Left"
+    },
+    {
+      "code": "\uf309",
+      "desc": "Alternate Long Arrow Down"
+    },
+    {
+      "code": "\uf3c1",
+      "desc": "Lock Open"
+    },
+    {
+      "code": "\uf023",
+      "desc": "lock"
+    },
+    {
+      "code": "\uf124",
+      "desc": "location-arrow"
+    },
+    {
+      "code": "\uf0ca",
+      "desc": "list-ul"
+    },
+    {
+      "code": "\uf0cb",
+      "desc": "list-ol"
+    },
+    {
+      "code": "\uf022",
+      "desc": "List Alternate"
+    },
+    {
+      "code": "\uf03a",
+      "desc": "List"
+    },
+    {
+      "code": "\uf195",
+      "desc": "Turkish Lira Sign"
+    },
+    {
+      "code": "\uf0c1",
+      "desc": "Link"
+    },
+    {
+      "code": "\uf0eb",
+      "desc": "Lightbulb"
+    },
+    {
+      "code": "\uf1cd",
+      "desc": "Life Ring"
+    },
+    {
+      "code": "\uf3bf",
+      "desc": "Level Up Alternate"
+    },
+    {
+      "code": "\uf3be",
+      "desc": "Level Down Alternate"
+    },
+    {
+      "code": "\uf094",
+      "desc": "Lemon"
+    },
+    {
+      "code": "\uf06c",
+      "desc": "leaf"
+    },
+    {
+      "code": "\uf109",
+      "desc": "Laptop"
+    },
+    {
+      "code": "\uf1ab",
+      "desc": "Language"
+    },
+    {
+      "code": "\uf11c",
+      "desc": "Keyboard"
+    },
+    {
+      "code": "\uf084",
+      "desc": "key"
+    },
+    {
+      "code": "\uf033",
+      "desc": "italic"
+    },
+    {
+      "code": "\uf05a",
+      "desc": "Info Circle"
+    },
+    {
+      "code": "\uf129",
+      "desc": "Info"
+    },
+    {
+      "code": "\uf275",
+      "desc": "Industry"
+    },
+    {
+      "code": "\uf03c",
+      "desc": "Indent"
+    },
+    {
+      "code": "\uf01c",
+      "desc": "inbox"
+    },
+    {
+      "code": "\uf302",
+      "desc": "Images"
+    },
+    {
+      "code": "\uf03e",
+      "desc": "Image"
+    },
+    {
+      "code": "\uf47f",
+      "desc": "Identification Card Alternate"
+    },
+    {
+      "code": "\uf2c2",
+      "desc": "Identification Card"
+    },
+    {
+      "code": "\uf2c1",
+      "desc": "Identification Badge"
+    },
+    {
+      "code": "\uf246",
+      "desc": "I Beam Cursor"
+    },
+    {
+      "code": "\uf251",
+      "desc": "Hourglass Start"
+    },
+    {
+      "code": "\uf252",
+      "desc": "Hourglass Half"
+    },
+    {
+      "code": "\uf253",
+      "desc": "Hourglass End"
+    },
+    {
+      "code": "\uf254",
+      "desc": "Hourglass"
+    },
+    {
+      "code": "\uf47e",
+      "desc": "Hospital Symbol"
+    },
+    {
+      "code": "\uf47d",
+      "desc": "Hospital Alternate"
+    },
+    {
+      "code": "\uf0f8",
+      "desc": "hospital"
+    },
+    {
+      "code": "\uf015",
+      "desc": "home"
+    },
+    {
+      "code": "\uf453",
+      "desc": "Hockey Puck"
+    },
+    {
+      "code": "\uf1da",
+      "desc": "History"
+    },
+    {
+      "code": "\uf21e",
+      "desc": "Heartbeat"
+    },
+    {
+      "code": "\uf004",
+      "desc": "Heart"
+    },
+    {
+      "code": "\uf025",
+      "desc": "headphones"
+    },
+    {
+      "code": "\uf1dc",
+      "desc": "heading"
+    },
+    {
+      "code": "\uf0a0",
+      "desc": "HDD"
+    },
+    {
+      "code": "\uf292",
+      "desc": "Hashtag"
+    },
+    {
+      "code": "\uf2b5",
+      "desc": "Handshake"
+    },
+    {
+      "code": "\uf4c4",
+      "desc": "Helping Hands"
+    },
+    {
+      "code": "\uf4c2",
+      "desc": "Hands"
+    },
+    {
+      "code": "\uf259",
+      "desc": "Spock (Hand)"
+    },
+    {
+      "code": "\uf257",
+      "desc": "Scissors (Hand)"
+    },
+    {
+      "code": "\uf255",
+      "desc": "Rock (Hand)"
+    },
+    {
+      "code": "\uf25a",
+      "desc": "Pointer (Hand)"
+    },
+    {
+      "code": "\uf0a6",
+      "desc": "Hand Pointing Up"
+    },
+    {
+      "code": "\uf0a4",
+      "desc": "Hand Pointing Right"
+    },
+    {
+      "code": "\uf0a5",
+      "desc": "Hand Pointing Left"
+    },
+    {
+      "code": "\uf0a7",
+      "desc": "Hand Pointing Down"
+    },
+    {
+      "code": "\uf25b",
+      "desc": "Peace (Hand)"
+    },
+    {
+      "code": "\uf256",
+      "desc": "Paper (Hand)"
+    },
+    {
+      "code": "\uf258",
+      "desc": "Lizard (Hand)"
+    },
+    {
+      "code": "\uf4c0",
+      "desc": "Hand Holding US Dollar"
+    },
+    {
+      "code": "\uf4be",
+      "desc": "Hand Holding Heart"
+    },
+    {
+      "code": "\uf4bd",
+      "desc": "Hand Holding"
+    },
+    {
+      "code": "\uf0fd",
+      "desc": "H Square"
+    },
+    {
+      "code": "\uf19d",
+      "desc": "Graduation Cap"
+    },
+    {
+      "code": "\uf450",
+      "desc": "Golf Ball"
+    },
+    {
+      "code": "\uf0ac",
+      "desc": "Globe"
+    },
+    {
+      "code": "\uf000",
+      "desc": "Martini Glass"
+    },
+    {
+      "code": "\uf06b",
+      "desc": "gift"
+    },
+    {
+      "code": "\uf22d",
+      "desc": "Genderless"
+    },
+    {
+      "code": "\uf3a5",
+      "desc": "Gem"
+    },
+    {
+      "code": "\uf0e3",
+      "desc": "Gavel"
+    },
+    {
+      "code": "\uf11b",
+      "desc": "Gamepad"
+    },
+    {
+      "code": "\uf1e3",
+      "desc": "Futbol"
+    },
+    {
+      "code": "\uf119",
+      "desc": "Frown"
+    },
+    {
+      "code": "\uf04e",
+      "desc": "forward"
+    },
+    {
+      "code": "\uf44e",
+      "desc": "Football Ball"
+    },
+    {
+      "code": "\uf4e6",
+      "desc": "Font Awesome Full Logo"
+    },
+    {
+      "code": "\uf031",
+      "desc": "font"
+    },
+    {
+      "code": "\uf07c",
+      "desc": "Folder Open"
+    },
+    {
+      "code": "\uf07b",
+      "desc": "Folder"
+    },
+    {
+      "code": "\uf0c3",
+      "desc": "Flask"
+    },
+    {
+      "code": "\uf11e",
+      "desc": "flag-checkered"
+    },
+    {
+      "code": "\uf024",
+      "desc": "flag"
+    },
+    {
+      "code": "\uf479",
+      "desc": "First Aid"
+    },
+    {
+      "code": "\uf134",
+      "desc": "fire-extinguisher"
+    },
+    {
+      "code": "\uf06d",
+      "desc": "fire"
+    },
+    {
+      "code": "\uf0b0",
+      "desc": "Filter"
+    },
+    {
+      "code": "\uf008",
+      "desc": "Film"
+    },
+    {
+      "code": "\uf1c2",
+      "desc": "Word File"
+    },
+    {
+      "code": "\uf1c8",
+      "desc": "Video File"
+    },
+    {
+      "code": "\uf1c4",
+      "desc": "Powerpoint File"
+    },
+    {
+      "code": "\uf1c1",
+      "desc": "PDF File"
+    },
+    {
+      "code": "\uf478",
+      "desc": "Medical File Alternate"
+    },
+    {
+      "code": "\uf477",
+      "desc": "Medical File"
+    },
+    {
+      "code": "\uf1c5",
+      "desc": "Image File"
+    },
+    {
+      "code": "\uf1c3",
+      "desc": "Excel File"
+    },
+    {
+      "code": "\uf1c9",
+      "desc": "Code File"
+    },
+    {
+      "code": "\uf1c7",
+      "desc": "Audio File"
+    },
+    {
+      "code": "\uf1c6",
+      "desc": "Archive File"
+    },
+    {
+      "code": "\uf15c",
+      "desc": "Alternate File"
+    },
+    {
+      "code": "\uf15b",
+      "desc": "File"
+    },
+    {
+      "code": "\uf0fb",
+      "desc": "fighter-jet"
+    },
+    {
+      "code": "\uf182",
+      "desc": "Female"
+    },
+    {
+      "code": "\uf1ac",
+      "desc": "Fax"
+    },
+    {
+      "code": "\uf050",
+      "desc": "fast-forward"
+    },
+    {
+      "code": "\uf049",
+      "desc": "fast-backward"
+    },
+    {
+      "code": "\uf070",
+      "desc": "Eye Slash"
+    },
+    {
+      "code": "\uf1fb",
+      "desc": "Eye Dropper"
+    },
+    {
+      "code": "\uf06e",
+      "desc": "Eye"
+    },
+    {
+      "code": "\uf360",
+      "desc": "Alternate External Link Square"
+    },
+    {
+      "code": "\uf35d",
+      "desc": "Alternate External Link"
+    },
+    {
+      "code": "\uf31e",
+      "desc": "Alternate Expand Arrows"
+    },
+    {
+      "code": "\uf065",
+      "desc": "Expand"
+    },
+    {
+      "code": "\uf071",
+      "desc": "Exclamation Triangle"
+    },
+    {
+      "code": "\uf06a",
+      "desc": "Exclamation Circle"
+    },
+    {
+      "code": "\uf12a",
+      "desc": "exclamation"
+    },
+    {
+      "code": "\uf362",
+      "desc": "Alternate Exchange"
+    },
+    {
+      "code": "\uf153",
+      "desc": "Euro Sign"
+    },
+    {
+      "code": "\uf12d",
+      "desc": "eraser"
+    },
+    {
+      "code": "\uf199",
+      "desc": "Envelope Square"
+    },
+    {
+      "code": "\uf2b6",
+      "desc": "Envelope Open"
+    },
+    {
+      "code": "\uf0e0",
+      "desc": "Envelope"
+    },
+    {
+      "code": "\uf142",
+      "desc": "Vertical Ellipsis"
+    },
+    {
+      "code": "\uf141",
+      "desc": "Horizontal Ellipsis"
+    },
+    {
+      "code": "\uf052",
+      "desc": "eject"
+    },
+    {
+      "code": "\uf044",
+      "desc": "Edit"
+    },
+    {
+      "code": "\uf019",
+      "desc": "Download"
+    },
+    {
+      "code": "\uf4ba",
+      "desc": "Dove"
+    },
+    {
+      "code": "\uf192",
+      "desc": "Dot Circle"
+    },
+    {
+      "code": "\uf4b9",
+      "desc": "Donate"
+    },
+    {
+      "code": "\uf474",
+      "desc": "Dolly Flatbed"
+    },
+    {
+      "code": "\uf472",
+      "desc": "Dolly"
+    },
+    {
+      "code": "\uf155",
+      "desc": "Dollar Sign"
+    },
+    {
+      "code": "\uf471",
+      "desc": "DNA"
+    },
+    {
+      "code": "\uf470",
+      "desc": "Diagnoses"
+    },
+    {
+      "code": "\uf108",
+      "desc": "Desktop"
+    },
+    {
+      "code": "\uf2a4",
+      "desc": "Deaf"
+    },
+    {
+      "code": "\uf1c0",
+      "desc": "Database"
+    },
+    {
+      "code": "\uf0c4",
+      "desc": "Cut"
+    },
+    {
+      "code": "\uf1b3",
+      "desc": "Cubes"
+    },
+    {
+      "code": "\uf1b2",
+      "desc": "Cube"
+    },
+    {
+      "code": "\uf05b",
+      "desc": "Crosshairs"
+    },
+    {
+      "code": "\uf125",
+      "desc": "crop"
+    },
+    {
+      "code": "\uf09d",
+      "desc": "Credit Card"
+    },
+    {
+      "code": "\uf4b8",
+      "desc": "Couch"
+    },
+    {
+      "code": "\uf1f9",
+      "desc": "Copyright"
+    },
+    {
+      "code": "\uf0c5",
+      "desc": "Copy"
+    },
+    {
+      "code": "\uf066",
+      "desc": "Compress"
+    },
+    {
+      "code": "\uf14e",
+      "desc": "Compass"
+    },
+    {
+      "code": "\uf086",
+      "desc": "comments"
+    },
+    {
+      "code": "\uf4b3",
+      "desc": "Comment Slash"
+    },
+    {
+      "code": "\uf4ad",
+      "desc": "Comment Dots"
+    },
+    {
+      "code": "\uf27a",
+      "desc": "Alternate Comment"
+    },
+    {
+      "code": "\uf075",
+      "desc": "comment"
+    },
+    {
+      "code": "\uf0db",
+      "desc": "Columns"
+    },
+    {
+      "code": "\uf085",
+      "desc": "cogs"
+    },
+    {
+      "code": "\uf013",
+      "desc": "cog"
+    },
+    {
+      "code": "\uf0f4",
+      "desc": "Coffee"
+    },
+    {
+      "code": "\uf126",
+      "desc": "Code Branch"
+    },
+    {
+      "code": "\uf121",
+      "desc": "Code"
+    },
+    {
+      "code": "\uf382",
+      "desc": "Cloud Upload Alternate"
+    },
+    {
+      "code": "\uf381",
+      "desc": "Cloud Download Alternate"
+    },
+    {
+      "code": "\uf0c2",
+      "desc": "Cloud"
+    },
+    {
+      "code": "\uf20a",
+      "desc": "Closed Captioning"
+    },
+    {
+      "code": "\uf24d",
+      "desc": "Clone"
+    },
+    {
+      "code": "\uf017",
+      "desc": "Clock"
+    },
+    {
+      "code": "\uf46d",
+      "desc": "Clipboard List"
+    },
+    {
+      "code": "\uf46c",
+      "desc": "Clipboard Check"
+    },
+    {
+      "code": "\uf328",
+      "desc": "Clipboard"
+    },
+    {
+      "code": "\uf1ce",
+      "desc": "Circle Notched"
+    },
+    {
+      "code": "\uf111",
+      "desc": "Circle"
+    },
+    {
+      "code": "\uf1ae",
+      "desc": "Child"
+    },
+    {
+      "code": "\uf077",
+      "desc": "chevron-up"
+    },
+    {
+      "code": "\uf054",
+      "desc": "chevron-right"
+    },
+    {
+      "code": "\uf053",
+      "desc": "chevron-left"
+    },
+    {
+      "code": "\uf078",
+      "desc": "chevron-down"
+    },
+    {
+      "code": "\uf139",
+      "desc": "Chevron Circle Up"
+    },
+    {
+      "code": "\uf138",
+      "desc": "Chevron Circle Right"
+    },
+    {
+      "code": "\uf137",
+      "desc": "Chevron Circle Left"
+    },
+    {
+      "code": "\uf13a",
+      "desc": "Chevron Circle Down"
+    },
+    {
+      "code": "\uf447",
+      "desc": "Chess Rook"
+    },
+    {
+      "code": "\uf445",
+      "desc": "Chess Queen"
+    },
+    {
+      "code": "\uf443",
+      "desc": "Chess Pawn"
+    },
+    {
+      "code": "\uf441",
+      "desc": "Chess Knight"
+    },
+    {
+      "code": "\uf43f",
+      "desc": "Chess King"
+    },
+    {
+      "code": "\uf43c",
+      "desc": "Chess Board"
+    },
+    {
+      "code": "\uf43a",
+      "desc": "Chess Bishop"
+    },
+    {
+      "code": "\uf439",
+      "desc": "Chess"
+    },
+    {
+      "code": "\uf14a",
+      "desc": "Check Square"
+    },
+    {
+      "code": "\uf058",
+      "desc": "Check Circle"
+    },
+    {
+      "code": "\uf00c",
+      "desc": "Check"
+    },
+    {
+      "code": "\uf200",
+      "desc": "Pie Chart"
+    },
+    {
+      "code": "\uf201",
+      "desc": "Line Chart"
+    },
+    {
+      "code": "\uf080",
+      "desc": "Bar Chart"
+    },
+    {
+      "code": "\uf1fe",
+      "desc": "Area Chart"
+    },
+    {
+      "code": "\uf0a3",
+      "desc": "certificate"
+    },
+    {
+      "code": "\uf217",
+      "desc": "Add to Shopping Cart"
+    },
+    {
+      "code": "\uf218",
+      "desc": "Shopping Cart Arrow Down"
+    },
+    {
+      "code": "\uf0d8",
+      "desc": "Caret Up"
+    },
+    {
+      "code": "\uf151",
+      "desc": "Caret Square Up"
+    },
+    {
+      "code": "\uf152",
+      "desc": "Caret Square Right"
+    },
+    {
+      "code": "\uf191",
+      "desc": "Caret Square Left"
+    },
+    {
+      "code": "\uf150",
+      "desc": "Caret Square Down"
+    },
+    {
+      "code": "\uf0da",
+      "desc": "Caret Right"
+    },
+    {
+      "code": "\uf0d9",
+      "desc": "Caret Left"
+    },
+    {
+      "code": "\uf0d7",
+      "desc": "Caret Down"
+    },
+    {
+      "code": "\uf1b9",
+      "desc": "Car"
+    },
+    {
+      "code": "\uf46b",
+      "desc": "Capsules"
+    },
+    {
+      "code": "\uf083",
+      "desc": "Retro Camera"
+    },
+    {
+      "code": "\uf030",
+      "desc": "camera"
+    },
+    {
+      "code": "\uf273",
+      "desc": "Calendar Times"
+    },
+    {
+      "code": "\uf271",
+      "desc": "Calendar Plus"
+    },
+    {
+      "code": "\uf272",
+      "desc": "Calendar Minus"
+    },
+    {
+      "code": "\uf274",
+      "desc": "Calendar Check"
+    },
+    {
+      "code": "\uf073",
+      "desc": "Alternate Calendar"
+    },
+    {
+      "code": "\uf133",
+      "desc": "Calendar"
+    },
+    {
+      "code": "\uf1ec",
+      "desc": "Calculator"
+    },
+    {
+      "code": "\uf207",
+      "desc": "Bus"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "vector": [
+    {
+      "name": "Frame 2",
+      "json_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/vectors/frame_2/frame_2.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/vectors/frame_2/frame_2.png",
+      "json_file": "islam_cal.json",
+      "type": "free",
+      "loc" : "online"
+    },
+    {
+      "name": "Frame 2",
+      "json_file_remote": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/vectors/frame_2/frame_2.json",
+      "preview": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/vectors/frame_2/frame_2.png",
+      "json_file": "islam_cal.json",
+      "type": "free",
+      "loc" : "online"
+    }
+    
+  ]
+}
