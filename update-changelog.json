@@ -35,23 +35,15 @@
       "type": "online",
       "title": "How to make Ramadan post",
       "description": "رمضان پوسٹ بنانا سیکھیں",
-      "image": "https://img.youtube.com/vi/51HNmwoTaEo/0.jpg",
+      "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/banners/ramadan_post.jpg",
       "url": "https://youtube.com/watch?v=51HNmwoTaEo"
-    },
-    {
-      "id": 1,
-      "type": "online",
-      "title": "How to make Jumma Mubarak post",
-      "description": "جمعہ مبارک پوسٹ بنانا سیکھیں",
-      "image": "https://img.youtube.com/vi/hhWbHpxU7os/0.jpg",
-      "url": "https://youtube.com/watch?v=hhWbHpxU7os"
     },
     {
       "id": 1,
       "type": "online",
       "title": "How to make post in Imagitor",
       "description": "پوسٹ بنانے کا طریقہ دیکھیں",
-      "image": "https://img.youtube.com/vi/TUpbYbShJ0U/0.jpg",
+      "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/banners/imagitor_video.jpg",
       "url": "https://youtube.com/watch?v=TUpbYbShJ0U"
     }
   ],
