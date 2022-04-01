@@ -24,6 +24,14 @@
   "banners": [
     {
       "id": 1,
+      "type": "local",
+      "title": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/banners/ramadan.jpg",
+      "url": "local:templates:ramadan"
+    },
+    {
+      "id": 1,
       "type": "online",
       "title": "How to make Ramadan post",
       "description": "رمضان پوسٹ بنانا سیکھیں",
