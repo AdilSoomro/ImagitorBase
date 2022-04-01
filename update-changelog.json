@@ -24,6 +24,7 @@
   "banners": [
     {
       "id": 1,
+      "type": "online",
       "title": "How to make Ramadan post",
       "description": "رمضان پوسٹ بنانا سیکھیں",
       "image": "https://img.youtube.com/vi/51HNmwoTaEo/0.jpg",
@@ -31,6 +32,7 @@
     },
     {
       "id": 1,
+      "type": "online",
       "title": "How to make Jumma Mubarak post",
       "description": "جمعہ مبارک پوسٹ بنانا سیکھیں",
       "image": "https://img.youtube.com/vi/hhWbHpxU7os/0.jpg",
@@ -38,6 +40,7 @@
     },
     {
       "id": 1,
+      "type": "online",
       "title": "How to make post in Imagitor",
       "description": "پوسٹ بنانے کا طریقہ دیکھیں",
       "image": "https://img.youtube.com/vi/TUpbYbShJ0U/0.jpg",
