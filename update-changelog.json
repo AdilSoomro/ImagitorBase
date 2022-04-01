@@ -45,6 +45,14 @@
       "description": "",
       "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/banners/imagitor_video.jpg",
       "url": "https://youtube.com/watch?v=TUpbYbShJ0U"
+    },
+    {
+      "id": 1,
+      "type": "premium",
+      "title": "",
+      "description": "",
+      "image": "https://raw.githubusercontent.com/AdilSoomro/ImagitorBase/master/banners/premium.jpg",
+      "url": "local:SparkleActivity"
     }
   ],
   "latest_tutorial_id": 22
